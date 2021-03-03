@@ -14,7 +14,7 @@
     <h1>Web Calculator</h1>
     </div>
     <form id="myform" Name="calc">
-        <input onblur="this.focus()" autofocus type="text" name="display" autocomplete="off" placeholder = "Enter"><br/>
+        <input onblur="this.focus()" autofocus type="text" name="display" autocomplete="off" placeholder = "0000"><br/>
         <input type="button" value="9" onclick="calc.display.value+='9'">
         <input type="button" value="C" onclick="calc.display.value =''">
         <input type="submit" value="=" onclick="calc.display.value = eval(calc.display.value);return false;">
