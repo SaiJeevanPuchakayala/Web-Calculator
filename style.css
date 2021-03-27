@@ -12,7 +12,7 @@
         margin-bottom: 25px;
     }
     
-    #content1 {
+    #example1 {
         box-sizing: content-box;
         background-color:navy;  
         width: 300px;
@@ -23,7 +23,7 @@
         margin-left:10px;
         border-radius: 50px;
       }
-      #content1:hover {
+      #example1:hover {
         background-color:navy;    
         border:2px solid red;
         box-shadow:0 10px 10px red;
@@ -90,7 +90,7 @@
         margin-bottom: 25px;
     }
     
-    #content1 {
+    #example1 {
         box-sizing: content-box;
         background-color:navy;  
         width: 500px;
@@ -101,7 +101,7 @@
         margin-left:120px;
         border-radius: 50px;
       }
-      #content1:hover {
+      #example1:hover {
         background-color:navy;    
         border:2px solid red;
         box-shadow:0 10px 10px red;
@@ -165,7 +165,7 @@
         margin-bottom: 25px;
     }
     
-    #content1 {
+    #example1 {
         box-sizing: content-box;
         background-color:navy;  
         width: 500px;
@@ -176,7 +176,7 @@
         margin-left:500px;
         border-radius: 50px;
       }
-      #content1:hover {
+      #example1:hover {
         background-color:navy;    
         border:2px solid red;
         box-shadow:0 10px 10px red;
